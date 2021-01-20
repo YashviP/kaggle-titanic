@@ -1,0 +1,4 @@
+[core]
+    remote = titanic-remote
+['remote "titanic-remote"']
+    url = gs://kaggle-titanic-dataset/train.csv
